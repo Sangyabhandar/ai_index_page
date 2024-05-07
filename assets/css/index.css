@@ -1,5 +1,27 @@
 @import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
 
+* {
+  font-family: "Manrope", sans-serif;
+}
+
+.white_font{
+  color: #FFFFFF;
+  font-size: 18px;
+}
+
+.blue_font {
+  color: #37507A;
+  font-size: 14px;
+}
+
+.white_background {
+  background-color: #FFFFFF;
+}
+
+.section_headings {
+  font-size: 25px;
+}
+
 .header_background_image {
   background-image: url("../images/header_image.png");
   width: 100%;
@@ -15,22 +37,13 @@
   left: 50%;
   color: #ffffff;
   font-size: 35px;
-  font-weight: 600; /* Semi-Bold */
+  font-weight: 600; 
 }
-
-* {
-  font-family: "Manrope", sans-serif;
-}
-
 
 .quotes_and_message {
   background-color: #37507A;
 }
 
-.white_font{
-  color: #FFFFFF;
-  font-size: 18px;
-}
 
 .quote {
   font-style: italic;
@@ -55,15 +68,11 @@
   text-align: justify;
 }
 
-.blue_font {
-  color: #37507A;
-  font-size: 14px;
+.investor_ready {
 }
 
-.white_background {
-  background-color: #FFFFFF;
+.investor_ready_message {
 }
 
-.section_headings {
-  font-size: 25px;
+.questions {
 }
