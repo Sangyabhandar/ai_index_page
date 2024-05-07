@@ -10,7 +10,6 @@
 }
 
 .heading {
-  padding: 200px;
   text-align: center;
   top: 50%;
   left: 50%;
@@ -23,3 +22,19 @@
   font-family: "Manrope", sans-serif;
 }
 
+
+.quotes_and_message {
+  background-color: #37507A;
+  text-align: center;
+}
+
+.white_font{
+  color: #FFFFFF;
+}
+
+.quote {
+  font-style: italic;
+  text-align: left;
+  font-weight: 250;
+  font-size: 18px;
+}
