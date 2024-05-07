@@ -46,7 +46,6 @@
 
 .message_heading {
   text-align: left;
-  font-size: 25;
   font-weight: bold;
   font-weight: 500;
 }
@@ -54,4 +53,17 @@
 .message {
   font-size: 14px;
   text-align: justify;
+}
+
+.blue_font {
+  color: #37507A;
+  font-size: 14px;
+}
+
+.white_background {
+  background-color: #FFFFFF;
+}
+
+.section_headings {
+  font-size: 25px;
 }
