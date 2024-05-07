@@ -44,3 +44,15 @@
   font-style: normal;
   font-weight: lighter;
 }
+
+.message_heading {
+  font-size: 25;
+  font-weight: bold;
+  font-weight: 500;
+}
+
+.message {
+  font-size: 14px;
+  text-align: justify;
+  font-weight: lighter;
+}
