@@ -25,7 +25,6 @@
 
 .quotes_and_message {
   background-color: #37507A;
-  text-align: center;
 }
 
 .white_font{
@@ -46,6 +45,7 @@
 }
 
 .message_heading {
+  text-align: left;
   font-size: 25;
   font-weight: bold;
   font-weight: 500;
@@ -54,5 +54,4 @@
 .message {
   font-size: 14px;
   text-align: justify;
-  font-weight: lighter;
 }
