@@ -102,3 +102,20 @@
 .bullets_heading {
   font-size:18px; 
 }
+
+.book_conulting {
+  background-image: url("../images/book_consulting_image.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  width: 100%;
+  height: auto;
+}
+
+.form-control , .submit_button{
+  border-radius: 0;
+}
+
+.submit_button {
+  border: 1px solid #ffffff;
+}
