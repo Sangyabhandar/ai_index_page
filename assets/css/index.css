@@ -81,15 +81,17 @@
 }
 
 .company_logos{
-  text-align: center;
+  display: flex;
+  justify-content: center;
 }
 
 .heartcore_logo {
   border-right: 1px solid black;
 }
 
-.heartcore_logo, .sigmaways_logo {
-  padding-right: 20px;
-  padding-left: 20px;
+.heartcore_logo, .sigmaways_logo{
+  width: auto;
+  height: auto;
+  padding: 20px;
 }
 
