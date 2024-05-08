@@ -1,5 +1,3 @@
-@import url("https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap");
-
 * {
   font-family: "Manrope", sans-serif;
 }
@@ -22,13 +20,16 @@
   font-size: 25px;
 }
 
-.header_background_image {
-  background-image: url("../images/header_image.png");
+.default_background_image_css {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
   width: 100%;
   height: 400px;
-  background-size: cover;
-  background-position: center;
-  background-repeat: no-repeat;
+}
+
+.header_background_image {
+  background-image: url("../images/header_image.png");
 }
 
 .heading {
@@ -105,10 +106,6 @@
 
 .book_conulting {
   background-image: url("../images/book_consulting_image.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position:center;
-  width: 100%;
   height: auto;
 }
 
@@ -122,9 +119,4 @@
 
 .ceo_quote {
   background-image: url("../images/ceo_image.png");
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-position:center;
-  width: 100%;
-  height: 400px;
 }
