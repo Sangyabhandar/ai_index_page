@@ -59,14 +59,12 @@
 }
 
 .message_heading {
-  text-align: left;
   font-weight: bold;
   font-weight: 500;
 }
 
 .message {
   font-size: 14px;
-  text-align: justify;
 }
 
 .investor_ready {
@@ -125,7 +123,3 @@
   font-size: 16px;
 }
 
-.heartcore_ur {
-  border-right: 1px solid black;
-  padding:20px;
-}
