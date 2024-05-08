@@ -2,18 +2,18 @@
   font-family: "Manrope", sans-serif;
 }
 
-.white_font{
-  color: #FFFFFF;
+.white_font {
+  color: #ffffff;
   font-size: 18px;
 }
 
 .blue_font {
-  color: #37507A;
+  color: #37507a;
   font-size: 14px;
 }
 
 .white_background {
-  background-color: #FFFFFF;
+  background-color: #ffffff;
 }
 
 .section_headings {
@@ -23,7 +23,7 @@
 .default_background_image_css {
   background-repeat: no-repeat;
   background-size: cover;
-  background-position:center;
+  background-position: center;
   width: 100%;
   height: 400px;
 }
@@ -38,13 +38,12 @@
   left: 50%;
   color: #ffffff;
   font-size: 35px;
-  font-weight: 600; 
+  font-weight: 600;
 }
 
 .quotes_and_message {
-  background-color: #37507A;
+  background-color: #37507a;
 }
-
 
 .quote {
   font-style: italic;
@@ -73,7 +72,7 @@
 .grey_image {
 }
 
-.company_logos{
+.company_logos {
   display: flex;
   justify-content: center;
 }
@@ -82,7 +81,8 @@
   border-right: 1px solid black;
 }
 
-.heartcore_logo, .sigmaways_logo{
+.heartcore_logo,
+.sigmaways_logo {
   width: auto;
   height: auto;
   padding: 20px;
@@ -93,7 +93,7 @@
 }
 
 .bullets_heading {
-  font-size:18px; 
+  font-size: 18px;
 }
 
 .book_conulting {
@@ -101,7 +101,8 @@
   height: auto;
 }
 
-.form-control , .submit_button{
+.form-control,
+.submit_button {
   border-radius: 0;
 }
 
