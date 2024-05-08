@@ -120,3 +120,12 @@
 .ceo_quote {
   background-image: url("../images/ceo_image.png");
 }
+
+.company_url {
+  font-size: 16px;
+}
+
+.heartcore_ur {
+  border-right: 1px solid black;
+  padding:20px;
+}
