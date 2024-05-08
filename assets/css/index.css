@@ -106,8 +106,8 @@
 .book_conulting {
   background-image: url("../images/book_consulting_image.png");
   background-repeat: no-repeat;
-  background-attachment: fixed;
   background-size: cover;
+  background-position:center;
   width: 100%;
   height: auto;
 }
@@ -118,4 +118,13 @@
 
 .submit_button {
   border: 1px solid #ffffff;
+}
+
+.ceo_quote {
+  background-image: url("../images/ceo_image.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position:center;
+  width: 100%;
+  height: 400px;
 }
