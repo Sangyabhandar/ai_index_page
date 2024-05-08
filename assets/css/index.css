@@ -79,3 +79,17 @@
 
 .grey_image {
 }
+
+.company_logos{
+  text-align: center;
+}
+
+.heartcore_logo {
+  border-right: 1px solid black;
+}
+
+.heartcore_logo, .sigmaways_logo {
+  padding-right: 20px;
+  padding-left: 20px;
+}
+
