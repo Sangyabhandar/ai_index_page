@@ -25,11 +25,12 @@
   background-size: cover;
   background-position: center;
   max-width: 100%;
-  height: auto;
+  height: 400px;
 }
 
 .header_background_image {
   background-image: url("../images/header_image.png");
+  height: auto;
 }
 
 .heading {
