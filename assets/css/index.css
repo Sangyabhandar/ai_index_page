@@ -70,6 +70,7 @@
 }
 
 .grey_image {
+  background-image: url("../images/grey_background.png"), url("../images/tyre_marks.png");
 }
 
 .company_logos {
